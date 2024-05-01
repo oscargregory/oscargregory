@@ -1,6 +1,9 @@
 # Hi there 👋
 
-##Hi! I'm Greg, a Business School graduate making a transition from the Oil and Gas industry to Cybersecurity Professional.
+Hi! I'm Greg, a Business School graduate with 10 years of experience working in the operations side of the Oil and Gas industry in Calgary, Alberta, Canada.
+
+The past 5 years have taught me what I want in a career, and what I want out of life. I have always had a passion burning inside me to do something that would harness my love for computers and the technology industry.
+This is my journey to pursuing that passion. This profile will outline my transition into that world.
 
 ###Who Am I?
 *Life-long Learner
