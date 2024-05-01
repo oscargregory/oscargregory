@@ -3,8 +3,8 @@
 <!--
 **oscargregory/oscargregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-_##Hi! I'm Greg, a Business School graduate making a transition from the Oil and Gas industry to Cybersecurity Professional.
-_
+##Hi! I'm Greg, a Business School graduate making a transition from the Oil and Gas industry to Cybersecurity Professional.
+
 ###Who Am I?
 *Life-long Learner
 *Passionate and fascinated by all things computers
