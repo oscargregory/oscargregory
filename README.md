@@ -9,9 +9,7 @@
                                                                                 
 <div style="text-align: center;">
 
-<div style="text-align: center;">
-  <img src="https://media.tenor.com/q-tQUmvQ2VIAAAAd/boris-goldeneye.gif" alt="I Am Invincible! GIF">
-</div>
+![Boris Grishenko from Goldeneye](https://www.bondmovies.com/sometimes-i-just-feel-like/attachment/244/)](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
 
 ## Life Events That Sparked My Interest in Cybersecurity
 
