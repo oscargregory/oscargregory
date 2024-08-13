@@ -41,3 +41,15 @@
 - **Practice ethical hacking on HackTheBox and TryHackMe** (*ongoing – projects coming soon*)
 - **Continued practice and learning of SQL, Markdown, HTML, and Python languages** (*ongoing - projects coming soon*)
 - **Create content to teach people what I have learned** (*not started*)
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="oscargregory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="oscargregory | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Greg Blattler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="oscargregoryinc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: www.linkedin.com/in/greg-blattler-76001a71
