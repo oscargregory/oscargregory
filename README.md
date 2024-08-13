@@ -1,9 +1,11 @@
 # Gregory Blattler 👋
 
-<h2>Hi! I'm Greg, a Business School graduate with 10 years of experience working in the operations side of the Oil and Gas industry in Calgary, Alberta, Canada.
+<h2>Hi, my name is Greg, I am a 32-year-old business school graduate who spent the last ten years in the Oil and Gas industry and I just quit my job to pursue a career in computers and cybersecurity. Yikes!
 
-The past 5 years have taught me what I want in a career, and what I want out of life. I have always had a passion burning inside me to do something that would harness my love for computers and the technology industry.
-This is my journey to pursuing that passion. This profile will outline my transition into that world.</h2>
+I am dedicating this github profile to showcasing my journey to learning Cybersecurity and my path to breaking into the industry and getting my first job.
+
+I am a lifelong learner and extremely passionate about learning everything I can!
+</h2>
 
 ###Who Am I?
 *Life-long Learner
