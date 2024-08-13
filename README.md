@@ -5,6 +5,7 @@
 
 
 </h2>
-<h1> I am dedicating this github profile to showcasing my journey to learning Cybersecurity and my path to breaking into the industry and getting my first job.
+<h3> I am dedicating this github profile to showcasing my journey to learning Cybersecurity and my path to breaking into the industry and getting my first job.
 
-I am a lifelong learner and extremely passionate about learning everything I can!</h1>
+I am a lifelong learner and extremely passionate about learning everything I can!</h3>
+                                                                                
