@@ -30,9 +30,9 @@
 *This is the process that I will be taking (feel free to critique, cybersecurity professionals) based on the research I have done online. I will not return to university; I will be using a collection of online resources to learn fundamentals, technical skills, and industry-standard software. (Most of these will be posted in project repositories)*
 
 - **Google Cybersecurity Certificate** (*completed*)
-  - *Start applying for entry-level IT / Cybersecurity jobs*
+  - *Start applying for entry-level IT / cybersecurity jobs*
 - **CompTIA A+, Network+, Security+ Certifications** (*in progress*)
-  - *Start applying for IT Helpdesk / entry-level cybersecurity jobs*
+  - *Start applying for IT helpdesk / entry-level cybersecurity jobs*
 - **Learn to build and understand Networks** (*completed*)
   - *Cisco Packet Tracer Course*
 - **Linux Server Setup and Configuration** (*not started*)
