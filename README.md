@@ -30,13 +30,13 @@
 *This is the process that I will be taking (feel free to critique, cybersecurity professionals) based on the research I have done online. I will not return to university; I will be using a collection of online resources to learn fundamentals, technical skills, and industry-standard software. (Most of these will be posted in project repositories)*
 
 - **Google Cybersecurity Certificate** (*completed*)
-  - Start applying for entry-level IT / Cybersecurity jobs
+  - *Start applying for entry-level IT / Cybersecurity jobs*
 - **CompTIA A+, Network+, Security+ Certifications** (*in progress*)
-  - Start applying for IT Helpdesk / entry-level cybersecurity jobs
+  - *Start applying for IT Helpdesk / entry-level cybersecurity jobs*
 - **Learn to build and understand Networks** (*completed*)
-  - Cisco Packet Tracer Course
+  - *Cisco Packet Tracer Course*
 - **Linux Server Setup and Configuration** (*not started*)
-  - Portfolio Project setting up a Linux server from scratch, and configuring it for a specific purpose such as web hosting, file sharing, or a personal cloud.
+  - *Portfolio Project setting up a Linux server from scratch, and configuring it for a specific purpose such as web hosting, file sharing, or a personal cloud.*
 - **Create Sandbox Environment with Kali Linux for Malware Analysis** (*not started*)
 - **Practice ethical hacking on HackTheBox and TryHackMe** (*ongoing – projects coming soon*)
 - **Continued practice and learning of SQL, Markdown, HTML, and Python languages** (*ongoing - projects coming soon*)
