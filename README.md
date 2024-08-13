@@ -17,10 +17,11 @@
 - **Speedrunning videogames**
 - **Learning exploits, botting, and hacking of Diablo 2**
 - **Creating financially lucrative botnet in Korean MMORPG**
-- **Listening to Darknet Diaries**
+- **Listening to 70 episodes of Darknet Diaries in 5 days**
+- **Using Kali Linux for the first time to make a phishing email example (never deployed lol)**
 - **Thinking of ways to break the system before thinking of ways to follow the rules**
 - **Seeing The Silk Road version 1 at the ripe age of 19**
-- **Learning how to mine Bitcoin in 2012 and linking up 10 computers in a lab at university to do it. _(Do not try this in 2024)_**
+- **Learning how to mine Bitcoin in 2012 and linking up 10 computers in a lab at university to do it. _(before I knew about laws and ethics :S)_**
 
 </div>
 
