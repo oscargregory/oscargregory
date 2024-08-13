@@ -45,6 +45,14 @@
 <h2> Certifications</h2>
 
   - [Google Cybersecurity Certificate](https://imgur.com/a/m7GHK1E)
+      - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/LPPRNBE52X8G)
+      - [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/certificate/V5MUJ952QPLN)
+      - [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/certificate/GT2D5VJ2UYET)
+      - [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/certificate/P9QUVDY8G8RK)
+      - [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/U2PZEJWYC4XM)
+      - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/certificate/EGP3CKQARC9R)
+      - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/S833XGKJ956J)
+      - [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/certificate/MNU3KNV55BYB)
 
 <h2> Connect with me:</h2>
 
