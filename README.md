@@ -9,9 +9,7 @@
                                                                                 
 <div style="text-align: center;">
 
-<div style="text-align: center;">
-  <img src="https://www.bondmovies.com/sometimes-i-just-feel-like/attachment/244/" alt="Boris Grishenko from Goldeneye">
-</div>
+![Boris Grishenko from Goldeneye](https://www.bondmovies.com/sometimes-i-just-feel-like/attachment/244/)
 
 ## Life Events That Sparked My Interest in Cybersecurity
 
