@@ -11,7 +11,7 @@
 
 - **Boris Grishenko from Goldeneye**
 - **Speedrunning videogames**
-- **Learning exploits, botting, and hacking of Diablo 2**
+- **Learning exploits, botting, and hacking in Diablo 2**
 - **Creating financially lucrative botnet in Korean MMORPG**
 - **Listening to Darknet Diaries**
 - **Thinking of ways to break the system before thinking of ways to follow the rules**
