@@ -11,14 +11,14 @@
 
 ![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
 
-## Life Events That Sparked My Interest in Cybersecurity
+## Life Events That Sparked My Interest in Computers and Cybersecurity
 
 - **Boris Grishenko from Goldeneye**
 - **Speedrunning videogames**
-- **Learning exploits, botting, and hacking of Diablo 2**
-- **Creating financially lucrative botnet in Korean MMORPG**
+- **Learning exploits, botting, and hacking in Diablo 2**
+- **Creating a financially lucrative botnet in Korean MMORPG**
 - **Listening to 70 episodes of Darknet Diaries in 5 days**
-- **Using Kali Linux for the first time to make a phishing email example (never deployed lol)**
+- **Using Kali Linux for the first time to make a phishing email example (for fun, never deployed)**
 - **Thinking of ways to break the system before thinking of ways to follow the rules**
 - **Seeing The Silk Road version 1 at the ripe age of 19**
 - **Learning how to mine Bitcoin in 2012 and linking up 10 computers in a lab at university to do it. _(before I knew about laws and ethics :S)_**
