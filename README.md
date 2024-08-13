@@ -52,4 +52,4 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: www.linkedin.com/in/greg-blattler-76001a71
+[linkedin]: https://www.linkedin.com/in/greg-blattler-76001a71
