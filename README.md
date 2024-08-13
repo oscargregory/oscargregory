@@ -42,6 +42,10 @@
 - **Continued practice and learning of SQL, Markdown, HTML, and Python languages** (*ongoing - projects coming soon*)
 - **Create content to teach people what I have learned** (*not started*)
 
+<h2> Certifications</h2>
+
+  - [Google Cybersecurity Certificate](https://imgur.com/a/m7GHK1E)
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="oscargregory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
