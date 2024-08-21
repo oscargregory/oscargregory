@@ -6,12 +6,13 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Projects: Google Cybersecurity Certificate</b>
-  - [Assets, Threats, and Vulnerabilities - Decrypt and Encrypted Message]( FILL THIS IN )
-  - [Using NIST Framework to analyze a Data Leak](FILL THIS OUT)
-  - [Conduct a Security Audit](FILL THIS OUT)
-  - [JWipe (Disk Wiping Utility)](FILL THIS OUT)
-  - [Active Directory Bulk User Creation](FILL THIS OUT)
-  - [FIM (File Integrity Monitor)](FILL THIS OUT)
+  - [Manage Security Risks - Conduct a Security Audit]( FILL THIS IN )
+  - [Network and Network Security - Analyze Network Attacks](FILL THIS OUT)
+  - [Linux and SQL - Use Linux Commands to Manage File Permissions](FILL THIS OUT)
+  - [Linux and SQL - Apply Filters to SQL Queries](FILL THIS OUT)
+  - [Detection and Response - Document an Incident with an Incident Handlers Journal](FILL THIS OUT)
+  - [Automate Cybersecurity Tasks with Python - Update a File through a Python Algorithm](FILL THIS OUT)
+    
 - <b>Setting up a Cybersecurity Environment</b>
   - [Setting up Kali Linux w/ Proxychaining]( FILL THIS OUT )
   - [Setting up a malware analysis VM](FILL THIS OUT)
