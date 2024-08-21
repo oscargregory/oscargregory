@@ -6,7 +6,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Projects: Google Cybersecurity Certificate</b>
-  - [Manage Security Risks - Conduct a Security Audit]( FILL THIS IN )
+  - [Manage Security Risks - Conduct a Security Audit](https://github.com/oscargregory/SecurityAudit/blob/main/README.md)
   - [Network and Network Security - Analyze Network Attacks](FILL THIS OUT)
   - [Linux and SQL - Use Linux Commands to Manage File Permissions](FILL THIS OUT)
   - [Linux and SQL - Apply Filters to SQL Queries](FILL THIS OUT)
