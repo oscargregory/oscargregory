@@ -1,10 +1,24 @@
 # Gregory Blattler 👋
 
 <h2>Hi, my name is Greg, I am a 32-year-old business school graduate who spent the last ten years in the Oil and Gas industry and I just quit my job to pursue a career in computers and cybersecurity. Yikes... Here we go!
-
-
-
 </h2>
+
+<h2>Cybersecurity Projects:</h2>
+
+- <b>Projects: Google Cybersecurity Certificate</b>
+  - [Assets, Threats, and Vulnerabilities - Decrypt and Encrypted Message]( FILL THIS IN )
+  - [Using NIST Framework to analyze a Data Leak](FILL THIS OUT)
+  - [Conduct a Security Audit](FILL THIS OUT)
+  - [JWipe (Disk Wiping Utility)](FILL THIS OUT)
+  - [Active Directory Bulk User Creation](FILL THIS OUT)
+  - [FIM (File Integrity Monitor)](FILL THIS OUT)
+- <b>Setting up a Cybersecurity Environment</b>
+  - [Setting up Kali Linux w/ Proxychaining]( FILL THIS OUT )
+  - [Setting up a malware analysis VM](FILL THIS OUT)
+  - [Keylogger with Email Capability](FILL THIS OUT)
+- <b>Python</b>
+  - [EXAMPLE PROJECT: Package Delivery Application (Datastructures and Algorithms Demo)](FILL THIS OUT)
+
 <h3> I am dedicating this github profile to showcasing my journey to learning Cybersecurity and my path to breaking into the industry and getting my first job.</h3>
                                                                                 
 <div style="text-align: center;">
