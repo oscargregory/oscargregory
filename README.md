@@ -10,7 +10,7 @@
   - [Network and Network Security - Use the NIST Framework to respond to a security incident](https://github.com/oscargregory/Network-and-Network-Security/blob/main/README.md)
   - [Linux and SQL - Use Linux Commands to Manage File Permissions](https://github.com/oscargregory/Linux-and-SQL)
   - [Linux and SQL - Apply Filters to SQL Queries](https://github.com/oscargregory/SQL/blob/main/README.md)
-  - [Assets, Threats, and Vulnerabilities - Analyze a vulnerable system for a small business]
+  - [Assets, Threats, and Vulnerabilities - Analyze a vulnerable system for a small business](https://github.com/oscargregory/Assets-Threats-and-Vulnerabilities/blob/main/README.md)
   - [Detection and Response - Document an Incident with an Incident Handlers Journal](FILL THIS OUT)
   - [Automate Cybersecurity Tasks with Python - Update a File through a Python Algorithm](FILL THIS OUT)
     
