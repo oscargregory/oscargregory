@@ -1,6 +1,6 @@
 # Gregory Blattler 👋
 
-<p align="center"><h2>Howdy, names Greg. Passionate about cybersecurity. Business School Graduate. Security+. Future Pen Tester.
+<p align="center"><h2>Howdy, names Greg. Passionate about cybersecurity. Business School Graduate. Security+. Future Pen Tester. This page is a follow-along of my journey tapping into the Cybersecurity industry.
 </h2>
 
 <h2>Cybersecurity Projects:</h2>
@@ -21,23 +21,6 @@
 - <b>Python</b>
   - [EXAMPLE PROJECT: Package Delivery Application (Datastructures and Algorithms Demo)](FILL THIS OUT)
 
-<h3> I am dedicating this github profile to showcasing my journey to learning Cybersecurity and my path to breaking into the industry and getting my first job.</h3>
-                                                                                
-<div style="text-align: center;">
-
-![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
-
-
-## Life Events That Sparked My Interest in Computers and Cybersecurity
-
-- **Boris Grishenko from Goldeneye**
-- **Learning exploits, botting, and hacking in Diablo 2**
-- **Creating a financially lucrative botnet in Korean MMORPG**
-- **Darknet Diaries**
-- **Using Kali Linux for the first time to make a phishing email example (for fun, never deployed)**
-
-</div>
-
 ## My Cybersecurity Road Map
 
 *This is the process that I will be taking (feel free to critique, cybersecurity professionals) based on the research I have done online. I will not return to university; I will be using a collection of online resources to learn fundamentals, technical skills, and industry-standard software. (Most of these will be posted in project repositories)*
@@ -54,6 +37,23 @@
 - **Practice ethical hacking on HackTheBox and TryHackMe** (*ongoing – projects coming soon*)
 - **Continued practice and learning of SQL, Markdown, HTML, and Python languages** (*ongoing - projects coming soon*)
 - **Create content to teach people what I have learned** (*not started*)
+                                                                                
+<div style="text-align: center;">
+
+![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
+
+
+## Life Events That Sparked My Interest in Computers and Cybersecurity
+
+- **Boris Grishenko from Goldeneye**
+- **Learning exploits, botting, and hacking in Diablo 2**
+- **Creating a financially lucrative botnet in Korean MMORPG**
+- **Darknet Diaries**
+- **Using Kali Linux for the first time to make a phishing email example (for fun, never deployed)**
+
+</div>
+
+
 
 <h2> Certifications</h2>
 
