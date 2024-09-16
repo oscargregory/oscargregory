@@ -1,6 +1,6 @@
 # Gregory Blattler 👋
 
-<p align="center"><h2>Hi, my name is Greg, I am a 32-year-old business school graduate who spent the last ten years in the Oil and Gas industry and I just quit my job to pursue a career in computers and cybersecurity. Yikes... Here we go!
+<p align="center"><h2>Howdy, names Greg. Passionate about cybersecurity. Business School Graduate. Security+. Future Pen Tester.
 </h2>
 
 <h2>Cybersecurity Projects:</h2>
