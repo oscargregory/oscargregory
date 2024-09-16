@@ -1,6 +1,6 @@
 # Gregory Blattler 👋
 
-<p align="center"><h2>Howdy, names Greg. Passionate about cybersecurity. Business School Graduate. Security+. Future Pen Tester. This page is a follow-along of my journey tapping into the Cybersecurity industry.
+<p align="center"><h2>Howdy, names Greg. Passionate about cybersecurity. Business School Graduate. Security+. Future Pen Tester. Feel free to follow along in my cybersecurity journey.
 </h2>
 
 <h2>Cybersecurity Projects:</h2>
