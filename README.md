@@ -30,14 +30,10 @@
 ## Life Events That Sparked My Interest in Computers and Cybersecurity
 
 - **Boris Grishenko from Goldeneye**
-- **Speedrunning videogames**
 - **Learning exploits, botting, and hacking in Diablo 2**
 - **Creating a financially lucrative botnet in Korean MMORPG**
-- **Listening to 70 episodes of Darknet Diaries in 5 days**
+- **Darknet Diaries**
 - **Using Kali Linux for the first time to make a phishing email example (for fun, never deployed)**
-- **Thinking of ways to break the system before thinking of ways to follow the rules**
-- **Experiencing TOR / darkweb / Silk Road at the ripe age of 19**
-- **Learning how to mine Bitcoin in 2012 and linking up 10 computers in a lab at university to do it. _(before I knew about laws and ethics :S)_**
 
 </div>
 
@@ -47,7 +43,7 @@
 
 - **Google Cybersecurity Certificate** (*completed*)
   - *Start applying for entry-level IT / cybersecurity jobs*
-- **CompTIA A+, Network+, Security+ Certifications** (*in progress*)
+- **CompTIA Security+ Certifications** (*in progress*)
   - *Start applying for IT helpdesk / entry-level cybersecurity jobs*
 - **Learn to build and understand Networks** (*completed*)
   - *Cisco Packet Tracer Course*
