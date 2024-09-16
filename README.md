@@ -25,9 +25,8 @@
                                                                                 
 <div style="text-align: center;">
 
-<p align="center">
-  ![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
-</p>
+![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
+
 
 ## Life Events That Sparked My Interest in Computers and Cybersecurity
 
