@@ -39,10 +39,7 @@
 - **Create content to teach people what I have learned** (*not started*)
                                                                                 
 <div style="text-align: center;">
-
-![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
-
-
+  
 ## Life Events That Sparked My Interest in Computers and Cybersecurity
 
 - **Boris Grishenko from Goldeneye**
@@ -51,9 +48,8 @@
 - **Darknet Diaries**
 - **Using Kali Linux for the first time to make a phishing email example (for fun, never deployed)**
 
+![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
 </div>
-
-
 
 <h2> Certifications</h2>
 
