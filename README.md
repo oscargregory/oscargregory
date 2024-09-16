@@ -1,4 +1,4 @@
-# Gregory Blattler 👋
+# Gregory Blattler
 
 <p align="center"><h2>Howdy, names Greg. Passionate about cybersecurity. B.BA - Mount Royal University. Security+. Future Pen Tester. Feel free to follow along in my cybersecurity journey.
 </h2>
