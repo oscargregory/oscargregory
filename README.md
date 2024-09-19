@@ -27,7 +27,7 @@
 
 - **Google Cybersecurity Certificate** (*completed*)
   - *Start applying for entry-level IT / cybersecurity jobs*
-- **CompTIA Security+ Certifications** (*in progress*)
+- **CompTIA Security+ Certification** (*in progress*)
   - *Start applying for IT helpdesk / entry-level cybersecurity jobs*
 - **Learn to build and understand Networks** (*completed*)
   - *Cisco Packet Tracer Course*
@@ -47,6 +47,7 @@
 - **Creating a financially lucrative botnet in Korean MMORPG**
 - **Darknet Diaries**
 - **Using Kali Linux for the first time to make a phishing email example (for fun, never deployed)**
+- **Building my own custom PC's**
 
 ![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
 </div>
