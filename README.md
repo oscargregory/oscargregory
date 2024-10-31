@@ -54,6 +54,7 @@
 
 <h2> Certifications</h2>
 
+  - CompTIA Security+ Certification
   - [Google Cybersecurity Certificate](https://imgur.com/a/m7GHK1E)
       - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/LPPRNBE52X8G)
       - [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/certificate/V5MUJ952QPLN)
