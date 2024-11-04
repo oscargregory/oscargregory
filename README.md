@@ -16,28 +16,30 @@
   - [Automate Cybersecurity Tasks with Python - Update a File through a Python Algorithm](https://docs.google.com/document/d/1IzG9Ss1GPkiYC3ZJ7-qDFJELmXF-HoEgjjy3LB7XnZ0/edit?usp=sharing&resourcekey=0-LNBqyJFnuCqS1cRElUkcdg)
     
 - <b>Setting up a Cybersecurity Environment</b>
-  - [Setting up Kali Linux w/ Proxychaining]( FILL THIS OUT )
-  - [Setting up a malware analysis VM](FILL THIS OUT)
-  - [Keylogger with Email Capability](FILL THIS OUT)
+  - [Setting up Kali Linux w/ Proxychaining]( In Progress )
+  - [Setting up a malware analysis VM](In Progress)
+  - [Keylogger with Email Capability](In Progress)
 - <b>Python</b>
-  - [EXAMPLE PROJECT: Package Delivery Application (Data structures and Algorithms Demo)](FILL THIS OUT)
+  - [EXAMPLE PROJECT: Package Delivery Application (Data structures and Algorithms Demo)](Upcoming)
+ 
+- <b>Upcoming Resume Projects</b>
+  -Setup a SIEM in Azure (Sentinel)
+  -Setup an Active Directory Environment
+  -Create a File Integrity Monitor (FIM)
+  -Build a simple REST API
 
 ## My Cybersecurity Road Map
 
 *This is the process that I will be taking (feel free to critique, cybersecurity professionals) based on the research I have done online. I will not return to university; I will be using a collection of online resources to learn fundamentals, technical skills, and industry-standard software. (Most of these will be posted in project repositories)*
 
 - **Google Cybersecurity Certificate** (*completed*)
-  - *Start applying for entry-level IT/cybersecurity jobs*
 - **CompTIA Security+ Certification** (*completed*)
-  - *Start applying for IT helpdesk / entry-level cybersecurity jobs*
 - **Learn to build and understand Networks** (*completed*)
   - *Cisco Packet Tracer Course*
-- **Linux Server Setup and Configuration** (*not started*)
-  - *Portfolio Project setting up a Linux server from scratch, and configuring it for a specific purpose such as web hosting, file sharing, or a personal cloud.*
-- **Create Sandbox Environment with Kali Linux for Malware Analysis** (*not started*)
-- **Practice ethical hacking on HackTheBox and TryHackMe** (*ongoing – projects coming soon*)
-- **Continued practice and learning of SQL, Markdown, HTML, and Python languages** (*ongoing - projects coming soon*)
-- **Create content to teach people what I have learned** (*not started*)
+- **QUALYS Vulnerability Management, Detection and Response** (*completed*)
+- **Continue working on cybersecurity projects** (*in progress*)
+  - *Creating a cybersecurity environment* (*in progress*)
+  - *Setup a SIEM in Azure (Sentinel)* (*on deck*)
                                                                                 
 <div style="text-align: center;">
   
