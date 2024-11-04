@@ -24,10 +24,10 @@
   - [EXAMPLE PROJECT: Package Delivery Application (Data Structures and Algorithms Demo)](Upcoming)
     
  - <b>Upcoming Resume Projects</b>
-    -[Setup a SIEM in Azure (Sentinel)] (**In Progress**)
-    -[Setup an Active Directory Environment](*not yet started*)
-    -[Create a File Integrity Monitor (FIM)](*not yet started*)
-    -[Build a simple REST API] (*not yet started*)
+   - [Setup a SIEM in Azure (Sentinel)] (**In Progress**)
+   - [Setup an Active Directory Environment](*not yet started*)
+   - [Create a File Integrity Monitor (FIM)](*not yet started*)
+   - [Build a simple REST API] (*not yet started*)
 
 
 ## My Cybersecurity Road Map
