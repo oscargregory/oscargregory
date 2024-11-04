@@ -19,9 +19,6 @@
   - [Setting up Kali Linux w/ Proxychaining]( In Progress )
   - [Setting up a malware analysis VM](In Progress)
   - [Keylogger with Email Capability](In Progress)
-  
-- <b>Python</b>
-  - [EXAMPLE PROJECT: Package Delivery Application (Data Structures and Algorithms Demo)](Upcoming)
     
  - <b>Upcoming Resume Projects</b>
    - [Setup a SIEM in Azure (Sentinel)] (**In Progress**)
