@@ -19,14 +19,16 @@
   - [Setting up Kali Linux w/ Proxychaining]( In Progress )
   - [Setting up a malware analysis VM](In Progress)
   - [Keylogger with Email Capability](In Progress)
+  
 - <b>Python</b>
-  - [EXAMPLE PROJECT: Package Delivery Application (Data structures and Algorithms Demo)](Upcoming)
- 
-- <b>Upcoming Resume Projects</b>
-  -Setup a SIEM in Azure (Sentinel)
-  -Setup an Active Directory Environment
-  -Create a File Integrity Monitor (FIM)
-  -Build a simple REST API
+  - [EXAMPLE PROJECT: Package Delivery Application (Data Structures and Algorithms Demo)](Upcoming)
+    
+ - <b>Upcoming Resume Projects</b>
+  - [Setup a SIEM in Azure (Sentinel)] (*In Progress*)
+  - [Setup an Active Directory Environment](*not yet started*)
+  - [Create a File Integrity Monitor (FIM)](*not yet started*)
+  - [Build a simple REST API] (*not yet started*)
+
 
 ## My Cybersecurity Road Map
 
@@ -45,7 +47,7 @@
   
 <h2> Certifications</h2>
 
-  - CompTIA Security+ Certification
+  - **CompTIA Security+ Certification**
   - [Google Cybersecurity Certificate](https://imgur.com/a/m7GHK1E)
       - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/LPPRNBE52X8G)
       - [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/certificate/V5MUJ952QPLN)
