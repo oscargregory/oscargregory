@@ -36,8 +36,8 @@
 
 - **Google Cybersecurity Certificate** (*completed*)
 - **CompTIA Security+ Certification** (*completed*)
-- **Learn to build and understand Networks** (*completed*)
-  - *Cisco Packet Tracer Course*
+- **Cisco Packet Tracer Course** (*completed*)
+  - *Learn to build and understand Networks*
 - **QUALYS Vulnerability Management, Detection and Response** (*completed*)
 - **Continue working on cybersecurity projects** (*in progress*)
   - *Creating a cybersecurity environment* (*in progress*)
