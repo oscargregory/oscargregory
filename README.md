@@ -1,6 +1,7 @@
 # Gregory Blattler
 
-<p align="center"><h2>Hi, I'm Greg. Passionate about cybersecurity. B.BA - Mount Royal University. Security+. OWASP Member. QUALYS Vulnerability Management.
+<p align="center"><h2>Hi, I'm Greg.
+  B.BA | Security+ | OWASP Member | QUALYS Vulnerability Management
 </h2>
 
 <h2>Cybersecurity Projects:</h2>
@@ -19,15 +20,15 @@
   - [Setting up a malware analysis VM](FILL THIS OUT)
   - [Keylogger with Email Capability](FILL THIS OUT)
 - <b>Python</b>
-  - [EXAMPLE PROJECT: Package Delivery Application (Datastructures and Algorithms Demo)](FILL THIS OUT)
+  - [EXAMPLE PROJECT: Package Delivery Application (Data structures and Algorithms Demo)](FILL THIS OUT)
 
 ## My Cybersecurity Road Map
 
 *This is the process that I will be taking (feel free to critique, cybersecurity professionals) based on the research I have done online. I will not return to university; I will be using a collection of online resources to learn fundamentals, technical skills, and industry-standard software. (Most of these will be posted in project repositories)*
 
 - **Google Cybersecurity Certificate** (*completed*)
-  - *Start applying for entry-level IT / cybersecurity jobs*
-- **CompTIA Security+ Certification** (*in progress*)
+  - *Start applying for entry-level IT/cybersecurity jobs*
+- **CompTIA Security+ Certification** (*completed*)
   - *Start applying for IT helpdesk / entry-level cybersecurity jobs*
 - **Learn to build and understand Networks** (*completed*)
   - *Cisco Packet Tracer Course*
@@ -40,18 +41,6 @@
                                                                                 
 <div style="text-align: center;">
   
-## Life Events That Sparked My Interest in Computers and Cybersecurity
-
-- **Boris Grishenko from Goldeneye**
-- **Learning exploits, botting, and hacking in Diablo 2**
-- **Creating a financially lucrative botnet in Korean MMORPG**
-- **Darknet Diaries**
-- **Using Kali Linux for the first time to make a phishing email example (for fun, never deployed)**
-- **Building my own custom PC's**
-
-![Boris Grishenko from Goldeneye](https://i0.wp.com/www.bondmovies.com/wp-content/uploads/2015/02/tumblr_njyhsl7F9v1und15po1_500.gif?ssl=1)
-</div>
-
 <h2> Certifications</h2>
 
   - CompTIA Security+ Certification
@@ -64,7 +53,8 @@
       - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/certificate/EGP3CKQARC9R)
       - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/S833XGKJ956J)
       - [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/certificate/MNU3KNV55BYB)
-
+   
+    
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="oscargregory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
