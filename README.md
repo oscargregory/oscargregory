@@ -16,8 +16,8 @@
   - [Automate Cybersecurity Tasks with Python - Update a File through a Python Algorithm](https://docs.google.com/document/d/1IzG9Ss1GPkiYC3ZJ7-qDFJELmXF-HoEgjjy3LB7XnZ0/edit?usp=sharing&resourcekey=0-LNBqyJFnuCqS1cRElUkcdg)
     
 - <b>TryHackMe - 2024 Advent of Cyber - CTF Challenge</b>
-  - [2024 - Try Hack Me - Advent of Cyber] (https://github.com/oscargregory/THM-Advent-of-Cyber-2024/blob/main/README.md)
-  - [Certification](Completed)
+  - [2024 - Try Hack Me - Advent of Cyber](https://github.com/oscargregory/THM-Advent-of-Cyber-2024/blob/main/README.md)
+  - [Certification](https://imgur.com/a/dyLEN5x)
     
  - <b>Upcoming Resume Projects</b>
    - [Setup a SIEM in Azure (Sentinel)] (**In Progress**)
