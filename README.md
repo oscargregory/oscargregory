@@ -15,10 +15,9 @@
   - [Detection and Response - Document an Incident with an Incident Handlers Journal](https://docs.google.com/document/d/13wcp-QZ_TOdI1BRwEdYBmnQi4rrhG3BpdR1YafNTgbY/edit?usp=sharing&resourcekey=0-A5uMNSKFI30aec7U1tGo6Q)
   - [Automate Cybersecurity Tasks with Python - Update a File through a Python Algorithm](https://docs.google.com/document/d/1IzG9Ss1GPkiYC3ZJ7-qDFJELmXF-HoEgjjy3LB7XnZ0/edit?usp=sharing&resourcekey=0-LNBqyJFnuCqS1cRElUkcdg)
     
-- <b>Setting up a Cybersecurity Environment</b>
-  - [Setting up Kali Linux w/ Proxychaining]( In Progress )
-  - [Setting up a malware analysis VM](In Progress)
-  - [Keylogger with Email Capability](In Progress)
+- <b>TryHackMe - 2024 Advent of Cyber - CTF Challenge</b>
+  - [2024 - Try Hack Me - Advent of Cyber]
+  - [Certification](Completed)
     
  - <b>Upcoming Resume Projects</b>
    - [Setup a SIEM in Azure (Sentinel)] (**In Progress**)
